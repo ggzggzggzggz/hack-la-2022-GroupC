@@ -11,6 +11,8 @@ Lotus: 4th year Statistics
 
 # This Project
 > Link to presentation: 
+
+https://docs.google.com/presentation/d/1FXQ9dbOKSNbl6znThN751bM7I3kVzLYYviP8NCgHsm0/edit?usp=sharing
 > Give a brief description of the final product. 
 
 In order to better evaluate each student's engagement in the course, the final product seeks to provide a visualizing and summarizing tool for instructors to describe what the Student's Discussion Activity looks like from the instructor's side.
